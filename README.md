@@ -27,3 +27,7 @@ Please see `graph_diameter.h` and `test.cpp` for detailed information.
 
 * In a graph file, each line should contain two vertices (see `samples/sample_graph.tsv`).
 * Vertices should be described by integers starting from zero.
+
+References
+----------
+* Takuya Akiba, Yoichi Iwata, and Yuki Kawata, **An Exact Algorithm for Diameters of Large Real Directed Graphs**. In SEA 2015.
